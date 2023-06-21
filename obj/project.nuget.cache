@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "FDCmWWaKPjhKDZbevRl1++kxhojmmqr4CLNKVgaIaCc6nKAhtfBFdTHCQT5SMk+hUrcBWapr8tExIenfh/9pIA==",
+  "success": true,
+  "projectFilePath": "c:\\cs\\ParticleSystem-SFML-DOTNET\\ParticleSystem-SFML-DOTNET.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\auras\\.nuget\\packages\\csfml\\2.5.2\\csfml.2.5.2.nupkg.sha512",
+    "C:\\Users\\auras\\.nuget\\packages\\sfml.audio\\2.5.1\\sfml.audio.2.5.1.nupkg.sha512",
+    "C:\\Users\\auras\\.nuget\\packages\\sfml.graphics\\2.5.1\\sfml.graphics.2.5.1.nupkg.sha512",
+    "C:\\Users\\auras\\.nuget\\packages\\sfml.net\\2.5.1\\sfml.net.2.5.1.nupkg.sha512",
+    "C:\\Users\\auras\\.nuget\\packages\\sfml.system\\2.5.1\\sfml.system.2.5.1.nupkg.sha512",
+    "C:\\Users\\auras\\.nuget\\packages\\sfml.window\\2.5.1\\sfml.window.2.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
