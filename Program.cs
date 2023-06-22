@@ -1,6 +1,4 @@
-﻿using System.Drawing;
-using SFML;
-using SFML.Graphics;
+﻿using SFML.Graphics;
 using SFML.System;
 using SFML.Window;
 
@@ -94,7 +92,7 @@ namespace PS
 
                 if(Mouse.IsButtonPressed(Mouse.Button.Left))
                 {
-                    particleSystem = new(3000);
+                    particleSystem = new(5000);
                 }
 
                 if (Keyboard.IsKeyPressed(Keyboard.Key.Escape))
